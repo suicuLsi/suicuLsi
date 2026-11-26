@@ -1,6 +1,6 @@
 # Lucius Miao
 
-Independent design engineer and product developer. My work spans interface design, full-stack engineering, AI workflows, and search & AI visibility (SEO / GEO).
+Independent design engineer and product developer. My work spans interface design, full-stack engineering, AI workflows, and search & AI visibility (SEO / AEO).
 
 Currently building [**Linger**](https://withlinger.com/), a local-first visual reference library for macOS.
 
